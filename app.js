@@ -1,4 +1,2 @@
-let score = 10;
-console.log(score); // 10
-score = 20;
-console.log(score); // 20
+let score = 100; // cria uma variável chamada score e atribui o valor 100 a ela
+console.log(score); // imprime o valor da variável score no console
