@@ -14,5 +14,5 @@ console.log(justSum);
 let phrase = 'I \nlove \nbrunettes'
 console.log(phrase); // imprime a frase com quebras de linha
 
-const buy = 'cunsumer \"needs\" to purchase';
+const buy = 'consumer \"needs\" to purchase';
 console.log(buy); // imprime a frase com aspas duplas dentro da string
