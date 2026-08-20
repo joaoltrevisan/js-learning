@@ -29,6 +29,8 @@ let trimmedMessage = message.trim(); // remove os espaços em branco do início 
 
 let text = "I live in Europe";
 let otherText = text.replace("Europe", "America"); // substitui uma substring por outra na string.
+//replaceAll() substitui todas as ocorrências de uma substring por outra na string.
 
 let be = '!';
 let beRepeated = be.repeat(3); // repete a string um número específico de vezes.
+
